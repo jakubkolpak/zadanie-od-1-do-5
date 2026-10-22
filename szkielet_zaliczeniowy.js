@@ -1,0 +1,1 @@
+document.write("Szkielet zaliczeniowy JavaScript Jakub Kołdysz klasa 3F".fontcolor("red").bold().fontsize(7)+"<br>");
